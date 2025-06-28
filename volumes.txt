@@ -1,0 +1,20 @@
+ 10-05-2025 - 60 - 45 - 5 - 0.78
+ Date: 10-05-2025 
+ Tire width: 34 
+ Tire aspect ratio: 32 
+ Wheel diameter: 12 
+ Tire volume: 0.37
+ Date: 10-05-2025 
+ Tire width: 56mm 
+ Tire aspect ratio: 23 
+ Wheel diameter: 12in 
+ Tire volume: 0.72litres
+ Date: 10-05-2025 
+ Tire width: 185mm 
+ Tire aspect ratio: 50 
+ Wheel diameter: 14in 
+ Tire volume: 24.09litres
+ 2025-05-10, 180, 50, 14, 22.68
+ 2025-05-10, 180, 50, 14, 22.68, 048838
+ 2025-05-10, 120, 60, 14, 11.61
+ 2025-05-10, 120, 60, 14, 11.61, 08133039149

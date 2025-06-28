@@ -1,0 +1,40 @@
+import math
+
+pi = math.pi
+
+def main():
+    name = "#1 Picnic"
+    radius = 6.83
+    height = 10.16
+    area = can_area(radius, height)
+    volume = vol(radius, height)
+    storage_eff = volume / area
+    print(f"{name} volume = {volume:.2f} area = {area:.2f} Efficiency = {storage_eff :.2f}")
+
+    name = "#1 Tall"
+    radius = 6.83
+    height = 10.16
+    can_eff(name, radius, height)
+
+    can_eff("#3 Cylinder", 10.79, 17.78)
+
+def can_eff(name, radius, height):
+    name = "#1 Tall"
+    radius = 6.83
+    height = 10.16
+    area = can_area(radius, height)
+    volume = vol(radius, height)
+    storage_eff = volume / area
+    print(f"{name} volume = {volume:.2f} area = {area:.2f} Efficiency = {storage_eff :.2f}")  
+
+
+def vol(radius, height):
+    volume = pi * radius**2 * height
+    return volume
+
+def can_area(radius, height):
+    area = 2 * math.pi * radius * (radius * height)
+    return area
+
+
+main()
